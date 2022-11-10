@@ -140,6 +140,7 @@ __bash_prompt() {
 __bash_prompt
 export PROMPT_DIRTRIM=4
 
+export EXPRESSION_DISABLE_VM=true
 export APP_CONFIG_PATH=/workspaces/config_sample_v5
 export SOURCE_MAP=true
 export YF_ENABLED=false
